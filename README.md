@@ -1,4 +1,4 @@
-# php-console-log
+# PHP Console Log
 Add console-log() functionality to PHP programs
 
 **Install:**
