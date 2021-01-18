@@ -2,9 +2,13 @@
 Add console-log() functionality to PHP programs
 
 **Install:**
-`require('console-log.php');`
+```php
+require('console-log.php');`
+```
 
 **Usage:**
+```php
 <?php console_log($var); ?>
+```
 
 
